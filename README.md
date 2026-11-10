@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Ethical Hacking Enthusiast | Pentester Enthusiast | Aspiring Security Analyst</b><br/>
-  Computer Science Student @ Binus University, Jakarta 🇮🇩
+  Computer Science Student @ Binus University 🇮🇩
 </p>
 
 <p align="center">
