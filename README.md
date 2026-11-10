@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Web Developer | Open Source Enthusiast | Aspiring Security Analyst</b><br/>
-  Computer Science Student @ Binus University, Jakarta 🇮🇩
+  Computer Science Student 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raflyathallah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raflyathallahkhansaputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rafly.athallah.putra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Optional: TryHackMe / Hack The Box
   <a href="https://tryhackme.com/p/USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-Computer Science student at **Binus University** (class of 2027) who enjoys both **building** and **breaking** things on the web. I build full-stack web applications, and I study cybersecurity and ethical hacking so the things I build are secure by design.
+Computer Science student who enjoys both **building** and **breaking** things on the web. I build full-stack web applications, and I study cybersecurity and ethical hacking so the things I build are secure by design.
 
 I'm also a big fan of **open source tools**, from developer tooling to security tools, and I like learning how they work under the hood.
 
