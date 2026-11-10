@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Rafly Athallah Khansa Putra 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Ethical Hacking Enthusiast | Pentester Enthusiast | Aspiring Security Analyst</b><br/>
-  Computer Science Student @ Binus University 🇮🇩
+  <b>Cybersecurity Enthusiast | Web Developer | Open Source Enthusiast | Aspiring Security Analyst</b><br/>
+  Computer Science Student @ Binus University, Jakarta 🇮🇩
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raflyathallahkhansaputra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raflyathallah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:rafly.athallah.putra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Optional: TryHackMe / Hack The Box
   <a href="https://tryhackme.com/p/USERNAME"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
@@ -17,15 +17,46 @@
 
 ## 🧑‍💻 About Me
 
-Computer Science student at **Binus University** (class of 2027) with a strong interest in **cybersecurity and ethical hacking**. I enjoy understanding how applications and networks can be attacked, so I can help build and defend them better.
+Computer Science student at **Binus University** (class of 2027) who enjoys both **building** and **breaking** things on the web. I build full-stack web applications, and I study cybersecurity and ethical hacking so the things I build are secure by design.
 
-Besides security, I also like building full-stack apps, AR experiences, and AI projects.
+I'm also a big fan of **open source tools**, from developer tooling to security tools, and I like learning how they work under the hood.
+
+Besides web and security, I also explore AR experiences and AI projects.
 
 ## 🔭 Currently
 
-- 🔐 Learning web & API security (OWASP Top 10)
-- 🧪 Practicing penetration testing in hands-on lab environments
-- 🎯 Looking for **cybersecurity / pentesting internship and junior opportunities**
+- 🌐 Building full-stack web applications with Laravel and React
+- 🔐 Learning web & API security (OWASP Top 10) and practicing in hands-on lab environments
+- 🧰 Exploring open source developer tools and getting started with open source contributions
+- 🎯 Looking for **web development / cybersecurity internship and junior opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,java,c,html,css" alt="Languages"/>
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flask,mysql,mongodb" alt="Web Development"/>
+</p>
+
+**Developer & Open Source Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" alt="Developer Tools"/>
+</p>
+
+**Design & Creative**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,unity" alt="Design Tools"/>
+</p>
 
 ---
 
@@ -61,27 +92,9 @@ Besides security, I also like building full-stack apps, AR experiences, and AI p
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,c,html,css" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flask" alt="Frameworks"/>
-</p>
-
-**Databases, Tools & Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux,unity,figma,ps,pr" alt="Tools"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-Open to internships, collaborations, and conversations about cybersecurity.
+Open to internships, collaborations, open source projects, and conversations about web development and cybersecurity.
 Reach me via [LinkedIn](https://www.linkedin.com/in/raflyathallah) or [email](mailto:rafly.athallah.putra@gmail.com).
 
-<p align="center"><i>"Security is not a product, it's a process."</i></p>
+<p align="center"><i>"Build it right, then try to break it."</i></p>
